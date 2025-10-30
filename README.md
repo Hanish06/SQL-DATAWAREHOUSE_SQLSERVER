@@ -1,8 +1,10 @@
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/c7d8bfd0-5dc2-4ebc-8844-933bc84353e0" /># SQL-DATAWAREHOUSE_SQLSERVER
+
 Designing sql server based datawarehouse using ETL Pipeline, Data Modelling and analytics
 
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
+
+<img width="989" height="515" alt="image" src="https://github.com/user-attachments/assets/aecebe60-8fb6-4f1e-a121-50c4a53632f1" />
 
 
 
